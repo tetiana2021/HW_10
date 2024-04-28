@@ -1,0 +1,359 @@
+    1  git config--global user.tanita2021
+    2  % git config--global user.mis.tanita2016@outlook.com
+    3  cd: mista
+    4  config--global user tanita2021
+    5  git config user.name
+    6  git config-- global user.tanita2021
+    7  git config -- global user. tanita2021
+    8  git --help
+    9  git config --global: tanita2021
+   10  git config --global name.tanita2021
+   11  git config --get name
+   12  git config -- get user.name
+   13  git config --global user.name
+   14  git config --get user.name
+   15  git config --global user.tanita2021
+   16  git config --get user.name
+   17  git config --global user.tanita2021
+   18  git config --get user.name
+   19  git config --global user.mis.tanita2016@outlook.com
+   20  git config --get user.email
+   21  git clone
+   22  cd: documents
+   23  cd
+   24  cd test1
+   25  ls -l
+   26  cd
+   27  ls -l
+   28  git config --global user.tetiana2021
+   29  git config --get user.name
+   30  git config --global user.name tetiana2021
+   31  git config --get user.name
+   32  git config --global user.email mis.tanita2016@outlook.com
+   33  git config --get user.email
+   34  git clone https://github.com/tetiana2021/home-work.git
+   35  git config --global user.name tetiana2021
+   36  git config --get user.name
+   37  git config --global user.email mis.tanita2016@outlook.com
+   38  git config --get user.email
+   39  git clone https://github.com/tetiana2021/home-work.git
+   40  git clone https://github.com/tetiana2021/home-work.git
+   41  git clone https://github.com/tetiana2021/new.git
+   42  ls -l
+   43  cd: text1
+   44  cd text1
+   45  mkdir test3
+   46  ls -l
+   47  cd mista 197609 test3
+   48  cd test3
+   49  ls -l
+   50  git clone https://github.com/tetiana2021/new.git
+   51  ls -l
+   52  git status
+   53  cd mista
+   54  cd
+   55  git clone https://github.com/tetiana2021/new.git
+   56  git clone https://github.com/tetiana2021/home-work.git
+   57  cd test3
+   58  rw
+   59  rm test3
+   60  ls -l
+   61  rm test3
+   62  ls -l
+   63  cd
+   64  rm test3
+   65  ls -l
+   66  rm test3
+   67  ls-l
+   68  ls -l
+   69  cd
+   70  git clone https://github.com/tetiana2021/practice.git
+   71  ls -l
+   72  rm test.3
+   73  ls -l
+   74  git status
+   75  ls -l
+   76  git config --global user.name tetiana2021
+   77  git config --global user.email mis.tanita2016@outlook.com
+   78  git config --get user.name
+   79  git config --get user.email
+   80  git clone practice
+   81  ls -l
+   82  git status
+   83  ls -l
+   84  cd test.3
+   85  test.3
+   86  test3
+   87  cd test.2
+   88  test.2
+   89  mista197609/test.3
+   90  mista/test3
+   91  cd test3
+   92  git status
+   93  ls -l
+   94  git checkout -b branch1
+   95  git branch
+   96  git status
+   97  git branches
+   98  cd
+   99  git status
+  100  git checkout -b branch1
+  101  git branches
+  102  git branch
+  103  git config --global user.name tetiana2021
+  104  git config --get user.name
+  105  git config --global user.email mis.tanita2016@outlook.com
+  106  git.config -- get user.email
+  107  git config --get user.email
+  108  git clone https://github.com/tetiana2021/practice1.git
+  109  git status
+  110  ls -l
+  111  git status
+  112  git checkout -b branch2
+  113  git branch
+  114  practice
+  115  git status practice
+  116  git status
+  117  new
+  118  ls -l
+  119  mista197609 home-work
+  120  home-work
+  121  git status
+  122  rw practice1
+  123  cd rw practice1
+  124  rw practice1
+  125  rw: practice1
+  126  rw practice
+  127  [200~ -c && rm ~/.bash_history~
+  128   -c && rm ~/.bash_history
+  129  git confiq --global user.name tetiana2021
+  130  git config --global user.name tetiana2021
+  131  git config --get user.name
+  132  git config --global user.email mis.tanita2016@outlook.com
+  133  git confiq --get user.email
+  134  git config --get user.email
+  135  git clone https://github.com/tetiana2021/HW_10.git
+  136  cd HW_10
+  137  touch text_ignore.txt
+  138  ls -l
+  139  cd .gitignore
+  140  git branch
+  141  git checkout -b .gitignore
+  142  git chekout -b gitignore
+  143  git checkout -b gitignore
+  144  git status
+  145  git add text_ignore.txt
+  146  git commit -m "invisible for git"
+  147  ls -la
+  148  git status
+  149  git branches
+  150  git branch
+  151  git log
+  152  cd
+  153  touch main_test.txt
+  154  ls -l
+  155  git add
+  156  git pull
+  157  git z
+  158  rm new
+  159  git status
+  160  cd
+  161  git status
+  162  git add
+  163  git pull
+  164  ls -l
+  165  add main_test.txt
+  166  git add main_test.txt
+  167  git commit -m "new file"
+  168  cd new
+  169  touch main_test.txt
+  170  git add main_test.txt
+  171  git commit -m "new file"
+  172  git status
+  173  git publish
+  174  git push
+  175  git status
+  176  ls -l
+  177  cd HW-10
+  178  cd
+  179  HW-10
+  180  cd HW_10
+  181  git checkout -b develop
+  182  git status
+  183  touch develop_test.txt
+  184  ls -l
+  185  git branch
+  186  git status
+  187  git add develop_test.txt
+  188  git commit -m "new file"
+  189  git status
+  190  ls -l
+  191  git push
+  192  git push origin develop
+  193  ls -l
+  194  git status
+  195  git log
+  196  vim develop_test.txt
+  197  cd
+  198  cd Hw_10
+  199  li -l
+  200  ls -l
+  201  git status
+  202  vim develop_test.txt
+  203  ls -l
+  204  vim develop_test.txt
+  205  git branch 
+  206  ls -l
+  207  rm develop_test.txt
+  208  ls -l
+  209  touch develop_test.txt
+  210  ls -l
+  211  add develop_test.txt
+  212  git status
+  213  git commit develop_test.txt
+  214  git pull
+  215  git branch
+  216  git status
+  217  git add develop_test.txt
+  218  git commit -m " new file"
+  219  git status
+  220  rw develop_test.txt
+  221  rm develop_test.txt
+  222  ls -l
+  223  touch develop_test.txt
+  224  ls -l
+  225  git add develop_test.txt
+  226  git commit -m "new file"
+  227  git commit -m"key"
+  228  ls -l
+  229  git push origin develop
+  230  git log
+  231  git status
+  232  ls -l
+  233  git add "develop_test.txt"
+  234  ls -l
+  235  git status
+  236  git commit -m "develop_test.txt"
+  237  ls -l
+  238  git status
+  239  rm develop_test.txt
+  240  ls -l
+  241  git status
+  242  rw develop_test.txt.swp
+  243  ls -l
+  244  git status
+  245  touch develop_test.txt
+  246  git add develop_test.txt
+  247  git commit -m "key"
+  248  ls-l
+  249  ls -l
+  250  vim develop_test.txt
+  251  -c && rm ~/.bash_history
+  252  cd HW_10
+  253  git status
+  254  rm develop/_test.txt.swp
+  255  ls -l
+  256  git status
+  257  git push origin develop
+  258  vim develop_test.txt
+  259  git status
+  260  vim develop_test.txt
+  261  git status
+  262  git push origin develop_test.txt
+  263  git push origin develop
+  264  git log
+  265  git status
+  266  ls -la
+  267  git log
+  268  git commit -m "new file with key"
+  269  git add develop_test.txt
+  270  git commit -m "new file with tokken"
+  271  git log
+  272  ls-l
+  273  ls -l
+  274  git status
+  275  git add "develop_test.txt.swo"
+  276  git add develop_test.txt.swo
+  277  git status
+  278  vim develop_test.txt.swo
+  279  git status
+  280  -c && rm ~/.bash_history
+  281  cd
+  282  cd HW_10
+  283  git log
+  284  git branch develop
+  285  ls -l
+  286  rm develop_test.txt.swo
+  287  ls -l
+  288  git log
+  289  vim develop_test.txt
+  290  git status
+  291  ls -l
+  292  checkout main
+  293  checkout
+  294  checkout branch main
+  295  git branch main
+  296  git branch
+  297  checkout main
+  298  git checkout main
+  299  git push origin develop
+  300  git checkout main
+  301  git status
+  302  git log
+  303  checkout main
+  304  git checkout main
+  305  cd
+  306  cd HW_10
+  307  CD HW_10 (main)
+  308  git checkout
+  309  git checkout -b main
+  310  git checkout -b develop
+  311  git checkout -b main
+  312  git checkout main
+  313  git commit -m "again"
+  314  git commit -a "new"
+  315  git commit -m "new"
+  316  git status 
+  317  git checkout main
+  318  git merge main
+  319  git checkout main
+  320  cd
+  321  cd HW_10
+  322  rm develop
+  323  clear develop
+  324  git checkout -b develop1
+  325  git status
+  326  x develop
+  327  git v develop
+  328  git --help
+  329  git switch main
+  330  branch delete
+  331  git branch
+  332  git branch del
+  333  ls -l
+  334  checkout main
+  335  git checkout main
+  336  gitbadd develop_test.txt
+  337  git add develop_test.txt
+  338  git commit -m "develop_test.txt"
+  339  git status
+  340  git push origin develop
+  341  git status
+  342  rm develop_test.txt.swo
+  343  git add develop_test.txt.swo
+  344  git status
+  345  git push origin develop1
+  346  git checkout main
+  347  git checkout develop
+  348  git status
+  349  git checkout main
+  350  cd
+  351  cd HW_10
+  352  checkout develop
+  353  git checkout develop
+  354  ls -l
+  355  git log
+  356  git checkout main
+  357  git merge develop
+  358  git log
+  359  history > command_list.csv
